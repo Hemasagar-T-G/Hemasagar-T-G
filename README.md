@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as Full Stack Software Engineer
 - 💬 Ask me anything about Full Stack Web Development 
 - 📫 How to reach me: hemasagartg@gmail.com
-- 😄 My website: https://hemasagar-t-g.github.io/Portfolio/
+- 🌐 My website: https://hemasagar-t-g.github.io/Portfolio/
   
 ### Connect with me:
 <div id="badges">

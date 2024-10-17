@@ -13,9 +13,12 @@
    <a href="https://www.instagram.com/nanu_hemasagar_t_g">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/aaxiftaj">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
    <a href="https://www.linkedin.com/in/hemasagar-t-g-50a269237">
     <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
+
+### Languages and Tools:
+<div id="languages and Tools">
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://banner2.cleanpng.com/20180328/dcw/avjstgex3.webp" alt="C sharp" /></a>
+</div>

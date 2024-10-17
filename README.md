@@ -20,5 +20,5 @@
 
 ### Languages and Tools:
 <div id="languages and Tools">
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"><img src="https://banner2.cleanpng.com/20180328/dcw/avjstgex3.webp" alt="C sharp" /></a>
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" class="btn btn-success"></a>
 </div>
